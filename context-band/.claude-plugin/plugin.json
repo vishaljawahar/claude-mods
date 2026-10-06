@@ -1,0 +1,6 @@
+{
+  "name": "context-band",
+  "version": "0.1.0",
+  "description": "A band above the prompt showing context window fill, token usage, cost, model and rate limits",
+  "types": "./types/index.d.ts"
+}

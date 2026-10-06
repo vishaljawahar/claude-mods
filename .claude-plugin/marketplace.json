@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Vishal Jawahar" },
+  "plugins": [
+    {
+      "name": "context-band",
+      "source": "./context-band",
+      "description": "A colourful band above the prompt showing context window fill, token usage, cost, model and rate limits"
+    }
+  ]
+}
